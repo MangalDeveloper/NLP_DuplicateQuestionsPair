@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.48.1
 scikit-learn==1.1.3
 fuzzywuzzy
 distance
-
+pip==22.0.4
 bs4
+
