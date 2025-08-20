@@ -90,4 +90,4 @@ These engineered features were concatenated with the **BoW vectors** (`cv.pkl`) 
 
 ## 📸 App Screenshot
 
-![Streamlit App Screenshot](./Screenshots/app_screenshot.png)
+![Streamlit App Screenshot](./NLP.png)
